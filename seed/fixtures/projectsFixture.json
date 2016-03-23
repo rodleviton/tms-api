@@ -1,0 +1,39 @@
+[{
+  "_id": "56efe19baea98df90a528653",
+  "title": "Project 1",
+  "description": "This is the description for project 1.",
+  "user": "56efe19baea98df90a528652",
+  "posts": [
+    "56f06b29056a57ccc31862f7",
+    "56f06b3b056a57ccc31862f8",
+    "56f06b46056a57ccc31862f9"
+  ]
+}, {
+  "_id": "56efe19baea98df90a528654",
+  "title": "Project 2",
+  "description": "This is the description for project 2.",
+  "user": "56efe19baea98df90a528652",
+  "posts": [
+    "56f06b55056a57ccc31862fa",
+    "56f06b5c056a57ccc31862fb",
+    "56f06b64056a57ccc31862fc"
+  ]
+}, {
+  "_id": "56efe19baea98df90a528655",
+  "title": "Project 3",
+  "description": "This is the description for project 3.",
+  "user": "56efe19baea98df90a528652",
+  "posts": [
+    "56f06b6a056a57ccc31862fd",
+    "56f06b72056a57ccc31862fe",
+    "56f06b79056a57ccc31862ff"
+  ]
+}, {
+  "_id": "56efe19baea98df90a528656",
+  "title": "Project 4",
+  "description": "This is the description for project 4.",
+  "user": "56efe19baea98df90a528661",
+  "posts": [
+    "56f06b82056a57ccc3186300"
+  ]
+}]

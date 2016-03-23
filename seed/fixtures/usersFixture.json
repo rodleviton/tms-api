@@ -1,0 +1,19 @@
+[{
+  "_id": "56efe19baea98df90a528652",
+  "username": "rodleviton",
+  "email": "rod@rodleviton.com",
+  "password": "123",
+  "projects": [
+    "56efe19baea98df90a528653",
+    "56efe19baea98df90a528654",
+    "56efe19baea98df90a528655"
+  ]
+}, {
+  "_id": "56efe19baea98df90a528661",
+  "username": "adeleniccol",
+  "email": "adele@niccol.com",
+  "password": "123",
+  "projects": [
+    "56efe19baea98df90a528656"
+  ]
+}]
